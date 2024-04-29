@@ -1,0 +1,3 @@
+# KADpeer Network
+Designed and developed to delve into the intricacies of Kademlia-based Distributed Hash Tables (DHTs). With KADpeer, users can seamlessly initialize peer instances, join existing networks, and communicate using the custom kadPTP protocol. This project showcases my expertise in peer-to-peer communication, network bootstrapping, and decentralized data retrieval, highlighting my proficiency in designing robust tools for building scalable and fault-tolerant distributed systems. KADpeer stands as a testament to my commitment to mastering complex concepts in computer networking and distributed computing, making it a valuable addition to my portfolio.
+
